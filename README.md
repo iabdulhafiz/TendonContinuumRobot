@@ -14,7 +14,6 @@ Continuum and soft robotics problems can have a steep learning curve. The mechan
 
 The examples begin simple and build to present progressively more complicated models. Code is C++ with some examples also implemented in MATLAB. Qt is recommended to use with the C++ examples as the project organization files are in ".pro" Qt format, Qt's plotting capabilities are used to visualize models, and the event system is used to demonstrate interactive simulation.
 
-![Interactive control of a parallel continuum robot](https://github.com/JohnDTill/ContinuumRobotExamples/raw/master/CSG_Control.gif "Interactive control of a parallel continuum robot")
 
 ## Prerequisites
 
